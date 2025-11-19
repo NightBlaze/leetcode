@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
-    "167. Two Sum II - Input Array Is Sorted/rust/project167",
+    "167. Two Sum II - Input Array Is Sorted/rust/project167", "3. Longest Substring Without Repeating Characters/rust/project3",
     "326. Power of Three/rust/project326",
     "383. Ransom Note/rust/project383",
 ]
